@@ -1,14 +1,9 @@
 # Melanosis Coli
 
 
-```zsh
-vips dzsave HE.svs HE
-```
-
-
 ```{r melanosiscoli, include=FALSE}
 # language <- "EN"
-# language <- "TR"
+language <- "TR"
 ```
 
 
