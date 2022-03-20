@@ -1,11 +1,4 @@
-# template
-
-template for pathology atlas repositories
-
-> see [make-html-WSI](https://github.com/pathologyatlas/make-html-WSI) for more information and [TODO](https://github.com/pathologyatlas/TODO) to add cases
-
-
-> do not forget to activate github pages for the new repository
+# Melanosis Coli
 
 
 ```zsh
@@ -13,7 +6,7 @@ vips dzsave HE.svs HE
 ```
 
 
-```{r template, include=FALSE}
+```{r melanosiscoli, include=FALSE}
 # language <- "EN"
 # language <- "TR"
 ```
@@ -21,26 +14,51 @@ vips dzsave HE.svs HE
 
 ```{asis, echo = language == "TR"}
 
-## templateTR
+## Melanozis Koli
 
-[https://pathologyatlas.github.io/template/HE.html](https://pathologyatlas.github.io/template/HE.html)
+[https://pathologyatlas.github.io/melanosiscoli/HE.html](https://pathologyatlas.github.io/melanosiscoli/HE.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://pathologyatlas.github.io/template/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://pathologyatlas.github.io/melanosiscoli/HE.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
 
 ```{asis, echo = language == "EN"}
 
-## templateEN
+## Melanosis Coli
 
-[https://pathologyatlas.github.io/template/HE.html](https://pathologyatlas.github.io/template/HE.html)
+[https://pathologyatlas.github.io/melanosiscoli/HE.html](https://pathologyatlas.github.io/melanosiscoli/HE.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://pathologyatlas.github.io/template/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://pathologyatlas.github.io/melanosiscoli/HE.html" style="height:400px;width:100%;"></iframe>
+
+```
+
+```{asis, echo = language == "TR"}
+
+## Melanozis Koli PAS
+
+[https://pathologyatlas.github.io/melanosiscoli/PAS.html](https://pathologyatlas.github.io/melanosiscoli/PAS.html)
+
+Mikroskopik görüntüleri inceleyin:
+
+<iframe src="https://pathologyatlas.github.io/melanosiscoli/PAS.html" style="height:400px;width:100%;"></iframe>
+
+```
+
+
+```{asis, echo = language == "EN"}
+
+## Melanosis Coli PAS
+
+[https://pathologyatlas.github.io/melanosiscoli/PAS.html](https://pathologyatlas.github.io/melanosiscoli/PAS.html)
+
+See Microscopy with viewer: 
+
+<iframe src="https://pathologyatlas.github.io/melanosiscoli/PAS.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
