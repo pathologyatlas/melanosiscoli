@@ -11,11 +11,11 @@ language <- "TR"
 
 ## Melanozis Koli
 
-[https://pathologyatlas.github.io/melanosiscoli/HE.html](https://pathologyatlas.github.io/melanosiscoli/HE.html)
+[https://images.patolojiatlasi.com/melanosiscoli/HE.html](https://images.patolojiatlasi.com/melanosiscoli/HE.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://pathologyatlas.github.io/melanosiscoli/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://images.patolojiatlasi.com/melanosiscoli/HE.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
@@ -24,11 +24,11 @@ Mikroskopik görüntüleri inceleyin:
 
 ## Melanosis Coli
 
-[https://pathologyatlas.github.io/melanosiscoli/HE.html](https://pathologyatlas.github.io/melanosiscoli/HE.html)
+[https://images.patolojiatlasi.com/melanosiscoli/HE.html](https://images.patolojiatlasi.com/melanosiscoli/HE.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://pathologyatlas.github.io/melanosiscoli/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://images.patolojiatlasi.com/melanosiscoli/HE.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
@@ -36,11 +36,11 @@ See Microscopy with viewer:
 
 ## Melanozis Koli PAS
 
-[https://pathologyatlas.github.io/melanosiscoli/PAS.html](https://pathologyatlas.github.io/melanosiscoli/PAS.html)
+[https://images.patolojiatlasi.com/melanosiscoli/PAS.html](https://images.patolojiatlasi.com/melanosiscoli/PAS.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://pathologyatlas.github.io/melanosiscoli/PAS.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://images.patolojiatlasi.com/melanosiscoli/PAS.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
@@ -49,11 +49,11 @@ Mikroskopik görüntüleri inceleyin:
 
 ## Melanosis Coli PAS
 
-[https://pathologyatlas.github.io/melanosiscoli/PAS.html](https://pathologyatlas.github.io/melanosiscoli/PAS.html)
+[https://images.patolojiatlasi.com/melanosiscoli/PAS.html](https://images.patolojiatlasi.com/melanosiscoli/PAS.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://pathologyatlas.github.io/melanosiscoli/PAS.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://images.patolojiatlasi.com/melanosiscoli/PAS.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
